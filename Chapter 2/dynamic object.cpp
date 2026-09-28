@@ -15,15 +15,11 @@ class Student{
         this->gpa = gpa;
     }
 };
-
-Student fun(){
-    Student karim(5, 1, 4.98);
-    return karim;
-}
-
 int main(){
-    Student obj = fun();
-    cout << obj.cls << " " << obj.roll << " " << obj.gpa << endl;
-    
+    Student rahim(5, 1, 4.98); // static object
+    Student* alif = new Student(5,10,4.56); //dynamic object
+
+    cout << rahim.cls << " " << rahim.roll << " " << rahim.gpa << endl;
+    cout << alif->cls << " " << alif->roll << " " << alif->gpa << endl;
     return 0;
 }

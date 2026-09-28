@@ -16,14 +16,15 @@ class Student{
     }
 };
 
-Student fun(){
-    Student karim(5, 1, 4.98);
+Student* fun(){
+    Student* karim = new Student(5, 1, 4.98);
+    
     return karim;
 }
 
 int main(){
-    Student obj = fun();
-    cout << obj.cls << " " << obj.roll << " " << obj.gpa << endl;
+    Student* p = fun();
+    cout << p->cls << " " << p->roll << " " << p->gpa << endl;
     
     return 0;
 }
