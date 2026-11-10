@@ -43,3 +43,24 @@ Complete C++ DSA course by **Tuhin Ahammed**
 |---|---------|
 | 1 | [E - Problem](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E) |
 | 2 | [G - Problem](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G) |
+
+---
+
+## 📂 Chapter 2
+
+### 🎯 Topics Covered
+- Part 1: Static vs Dynamic Memory
+- Part 2: Dynamic Variable
+- Part 3: Update Dynamic Array
+- Part 4: Update Return Array Function
+- Part 5.1: Update Dynamic Array Size Change
+- Part 5.2: Practice Problem
+- Part 6: Class & Object
+- Part 7: How to Declare
+- Part 8.1: Working with Class and Object
+- Part 8.2: Animate Class and Object
+- Part 9: Constructor
+- Part 10: This Keyword
+- Part 11: Update Return Object
+- Part 12: Why We Need Dynamic Object
+- Part 13: Last Part (Returning Dynamic Objects)
